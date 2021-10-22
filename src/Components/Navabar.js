@@ -1,5 +1,5 @@
 import React from 'react';
-import '../Styles/Temporary.css';
+import '../Styles/Navbar.css';
 
 /*Inspiration from this code will be taken for making react components */
 export default function Temporary() {
